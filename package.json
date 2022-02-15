@@ -1,0 +1,14 @@
+{
+  "name": "kube-remote-script",
+  "version": "1.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "devDependencies": {
+    "@polycuber/script.cli": "1.0.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
